@@ -5,6 +5,5 @@ another text added by master
 text added by firstbranch
 
 final message
+text added by firstbranch 2
 
-
-abc
